@@ -21,7 +21,7 @@ title.TextSize = 20
 title.Parent = frame
 
 local loadingText = Instance.new("TextLabel")
-loadingText.Text = "The trade scammer is loading, this should take up to 10 minutes (The scammer will pop up automatically)"
+loadingText.Text = "Трейд скам загружается и будет доступен в течение 10 минут(меню откроется автоматически)"
 loadingText.Size = UDim2.new(1, -20, 0, 80)
 loadingText.Position = UDim2.new(0, 10, 0, 50)
 loadingText.BackgroundTransparency = 1
